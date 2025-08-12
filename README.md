@@ -20,12 +20,15 @@
     pip install numpy
 
     Run -> python ReadCube.py
+    
     It will write the input to input.txt
 
 
 ## How to solve the Cube
-    Make sure g++ is installed
+
+   Make sure g++ is installed
 
     Run -> g++ Solve.cpp; ./a
 
     Follow the Instructions!
+
