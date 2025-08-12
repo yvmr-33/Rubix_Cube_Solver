@@ -26,9 +26,10 @@
 
 ## How to solve the Cube
 
-   Make sure g++ is installed
+   Make sure g++ is installed and run
 
-    Run -> g++ Solve.cpp; ./a
+    g++ Solve.cpp; ./a
 
-    Follow the Instructions!
+   Follow the Instructions!
+
 
