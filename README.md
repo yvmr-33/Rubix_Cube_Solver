@@ -14,12 +14,13 @@
     Make sure only 6 images are there in the Cube_Images folder.
 
     Make sure Python is installed
-
     Insatll opencv-python and numpy by the following commands:
+##
     pip install opencv-python
     pip install numpy
 ##
-    Run -> python ReadCube.py
+   Run :
+    python ReadCube.py
     
    It will write the input to input.txt
 
@@ -31,6 +32,7 @@
     g++ Solve.cpp; ./a
 
    Follow the Instructions!
+
 
 
 
