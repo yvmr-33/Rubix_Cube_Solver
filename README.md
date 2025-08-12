@@ -24,8 +24,8 @@
 
 
 ## How to solve the Cube
-
     Make sure g++ is installed
 
     Run -> g++ Solve.cpp; ./a
+
     Follow the Instructions!
