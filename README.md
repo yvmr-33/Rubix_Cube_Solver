@@ -18,8 +18,8 @@
 ##
     pip install opencv-python
     pip install numpy
-##
    Run :
+##
     python ReadCube.py
     
    It will write the input to input.txt
@@ -32,6 +32,7 @@
     g++ Solve.cpp; ./a
 
    Follow the Instructions!
+
 
 
 
