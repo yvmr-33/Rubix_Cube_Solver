@@ -18,10 +18,10 @@
     Insatll opencv-python and numpy by the following commands:
     pip install opencv-python
     pip install numpy
-
+##
     Run -> python ReadCube.py
     
-    It will write the input to input.txt
+   It will write the input to input.txt
 
 
 ## How to solve the Cube
@@ -31,5 +31,6 @@
     g++ Solve.cpp; ./a
 
    Follow the Instructions!
+
 
 
